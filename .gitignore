@@ -1,0 +1,5 @@
+# .gitignore
+# github push 할 경우 AWS 인증 정보가 올라가지 않기 위한 파일
+
+/logs
+.env

@@ -1,0 +1,16 @@
+# requirements.txt
+# 가상환경에 설치할 패키지 목록
+
+# Data processing
+pandas
+requests
+
+# Database
+sqlalchemy
+psycopg2
+
+# Airflow
+apache-airflow
+
+# AWS S3 Client
+boto3
